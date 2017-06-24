@@ -1,0 +1,16 @@
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+d:\我的文档\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\lily\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
